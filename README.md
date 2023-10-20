@@ -6,6 +6,7 @@ Results demonstrate FUnIE-GAN's effectiveness in enhancing fish classification, 
 Implementation of my honours thesis project, submitted 20 October 2022.
 
 [Link to Official FUnIE-GAN repo]{https://github.com/xahidbuffon/FUnIE-GAN}. This repo contains the code to train and evaluate FUnIE-GAN and a trained FUnIE-GAN model.
+
 [Link to Offical Fish4knowledge dataset page]{https://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/}. Link to a dataset used in this research.
 
 Create Sharpened versions of fish datasets using sharp.py.
